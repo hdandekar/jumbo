@@ -8,3 +8,4 @@ Adding new branch
 
 Just new commit with push
 
+Adding commit 1(checkout)
